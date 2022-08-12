@@ -9,7 +9,7 @@ const SampleProjects = () => {
           <a
             class="block block-rounded block-link-pop h-100 mb-0"
             href="https://jamuna-text-to-speech-convertor.netlify.app/"
-           target="_blank"
+           target="_blank" rel="noreferrer"
           >
             <div class="block-content block-content-full text-center bg-danger">
               <div class="item item-2x item-circle bg-white-10 py-3 my-3 mx-auto">
@@ -25,7 +25,7 @@ const SampleProjects = () => {
           <a
             class="block block-rounded block-link-pop h-100 mb-0"
             href="https://background-detector.netlify.app/"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             <div class="block-content block-content-full text-center bg-gray-dark">
               <div class="item item-2x item-circle bg-white-10 py-3 my-3 mx-auto">
@@ -41,7 +41,7 @@ const SampleProjects = () => {
           <a
             class="block block-rounded block-link-pop h-100 mb-0"
             href="https://jamunashri-quiz-app.netlify.app/"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             <div class="block-content block-content-full text-center bg-primary">
               <div class="item item-2x item-circle bg-white-10 py-3 my-3 mx-auto">
@@ -57,7 +57,7 @@ const SampleProjects = () => {
           <a
             class="block block-rounded block-link-pop h-100 mb-0"
             href="https://jamunashri-number-guessing-game.netlify.app/"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             <div class="block-content block-content-full text-center bg-primary">
               <div class="item item-2x item-circle bg-white-10 py-3 my-3 mx-auto">
