@@ -53,6 +53,22 @@ const SampleProjects = () => {
             </div>
           </a>
         </div>
+        <div class="col-md-6 col-lg-4 col-xl-3">
+          <a
+            class="block block-rounded block-link-pop h-100 mb-0"
+            href="https://jamunashri-number-guessing-game.netlify.app/"
+            target="_blank"
+          >
+            <div class="block-content block-content-full text-center bg-primary">
+              <div class="item item-2x item-circle bg-white-10 py-3 my-3 mx-auto">
+                <i class="si si-chemistry fa-2x text-white-75"></i>
+              </div>
+            </div>
+            <div class="block-content block-content-full">
+              <h4 class="h5 mb-1">Number Guessing Game</h4>
+            </div>
+          </a>
+        </div>
       </div>
     </div>
   );
