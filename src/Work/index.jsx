@@ -1,11 +1,4 @@
 import React from "react";
-import ecommerceImg from "../images/ecommerce-site.png";
-import netflixCloneImg from "../images/netflix.png";
-import contactKeeperImg from "../images/contact-keeper.PNG";
-import chatAppImg from "../images/socketio.png";
-// import Project from "../Project/Project";
-import blogImage from "../images/mastermyna.webp";
-import CPMC from "../images/cpmc-website.PNG";
 import "./index.css";
 
 const Projects = () => {
