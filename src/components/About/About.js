@@ -1,5 +1,6 @@
 import GitHubIcon from "@material-ui/icons/GitHub";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
+import Twitter from "@material-ui/icons/Twitter"
 import { about } from "../../portfolio";
 import "./About.css";
 
@@ -23,6 +24,7 @@ const About = () => {
             {social.github && (
               <a
                 href={social.github}
+                target="_blank"
                 aria-label="github"
                 className="link link--icon"
               >
@@ -30,7 +32,7 @@ const About = () => {
               </a>
             )}
             {resume && (
-              <a href={resume}>
+              <a href={resume} target="_blank">
                 <span type="button" className="btn btn--outline">
                   Resume
                 </span>
@@ -39,11 +41,22 @@ const About = () => {
             {social.linkedin && (
               <a
                 href={social.linkedin}
+                target="_blank"
                 aria-label="linkedin"
                 className="link link--icon"
               >
                 <LinkedInIcon />
               </a>
+            )}
+            {social.twitter && (
+               <a
+               href={social.twitter}
+               target="_blank"
+               aria-label="linkedin"
+               className="link link--icon"
+             >
+               <Twitter />
+             </a>
             )}
           </>
         )}

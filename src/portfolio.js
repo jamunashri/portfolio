@@ -8,7 +8,7 @@ const about = {
   role: 'Front end Developer',
   description:
     'A Software Developer with two years of Experience, specializing in Front-end Technologies',
-  resume: 'https://drive.google.com/file/d/1C5vvugk_qmibD0ayWJxLN1-KhMhH2rI1/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1p5mxOuWZVOHyQt23KeCbHoc_qulMOjhO/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/jamunashri-shanmugasundaram/',
     github: 'https://github.com/jamunashri',
@@ -46,6 +46,20 @@ const projects = [
     stack: ['JavaScript', 'React', 'Background Detector'],
     sourceCode: 'https://github.com/jamunashri/background-detector',
     livePreview: 'https://background-detector.netlify.app/',
+  },{
+    name: 'Indmech Systems',
+    description:
+      'A website for the heating and ventilating company have their own services, contact and about pages',
+    stack: ['JavaScript', 'React', 'Email JS'],
+    sourceCode: 'https://github.com/jamunashri/indemech-systems',
+    livePreview: 'https://indmech.herokuapp.com/'
+  },{
+    name: 'Nithi Tex',
+    description:
+      'A website for the ecommerce site where have their product, category listing, cart, wishlist and payment option',
+      stack: ['JavaScript', 'React', 'Razor Pay', 'EmailJS'],
+    sourceCode: 'https://github.com/jamunashri/NithiTex/tree/main/Nithitex%20code%20final',
+    livePreview: 'http://nithitexadmin.online/'
   }
 ]
 
