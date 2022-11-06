@@ -60,6 +60,12 @@ const projects = [
       stack: ['JavaScript', 'React', 'Razor Pay', 'EmailJS'],
     sourceCode: 'https://github.com/jamunashri/NithiTex/tree/main/Nithitex%20code%20final',
     livePreview: 'http://nithitexadmin.online/'
+  }, {
+    name: 'Video Search App',
+    description: 'A Video Search Application that fetch the list of Video URL JSON file and renders on the UI, If we search something the resulten video will be rendered. Just like a Youtube.',
+    stack: ['JavaScript', 'React', 'HTML5', 'CSS'],
+    sourceCode: 'https://github.com/jamunashri/Video-search-app',
+    livePreview: 'https://video-list-app.netlify.app/'
   }
 ]
 
