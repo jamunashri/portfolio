@@ -66,6 +66,12 @@ const projects = [
     stack: ['JavaScript', 'React', 'HTML5', 'CSS'],
     sourceCode: 'https://github.com/jamunashri/Video-search-app',
     livePreview: 'https://video-list-app.netlify.app/'
+  }, {
+    name: 'A Ecommerce Application',
+    description: 'A MERN app which have the admin and customer panel to sell their products',
+    stack:['React', 'NodeJs', 'Razor Pay'],
+    sourceCode: 'https://github.com/jamunashri/ecommerce',
+    livePreview: 'https://dvarnam-couture.netlify.app/'
   }
 ]
 
