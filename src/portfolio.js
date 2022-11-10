@@ -72,6 +72,12 @@ const projects = [
     stack:['React', 'NodeJs', 'Razor Pay'],
     sourceCode: 'https://github.com/jamunashri/ecommerce',
     livePreview: 'https://dvarnam-couture.netlify.app/'
+  }, {
+    name: 'A Canva Clone App',
+    description: '    A Simple application to represent the Canva UX app :)    ',
+    stack:['React',' HTML',' CSS',' JSX',' ES6',' JS',' Functional Component',' Hook',' npm ','react-draggable'],
+    sourceCode: 'https://github.com/jamunashri/canva-clone',
+    livePreview: 'https://canva-clone1.netlify.app/'
   }
 ]
 
@@ -96,7 +102,9 @@ const skills = [
   'Web RTC',
   'UI/UX',
   'Jenkins',
-  'DOM'
+  'DOM',
+  'Selenium',
+  'NPM'
 ]
 
 const contact = {
