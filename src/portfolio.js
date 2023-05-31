@@ -5,9 +5,9 @@ const header = {
 
 const about = {
   name: 'Jamunashri',
-  role: 'Front end Developer',
+  role: 'Full stack developer/MERN stack developer',
   description:
-    'A Software Developer with two years of Experience, specializing in Front-end Technologies',
+    'Experienced and versatile full-stack developer with 3 years of experience and passion for responsive website design and a firm believer in the mobile-first approach.Proven track record of improving application speed and responsiveness by implementing code optimizations, lazy loading, and efficient data fetching strategies.Committed to producing high-quality code, driving seamless user experiences, and staying abreast of emerging industry trends.',
   resume: 'https://drive.google.com/file/d/16OWC3TT0vouA5Yn2Wm-gJTiyyiaBu_WP/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/jamunashri-shanmugasundaram/',
@@ -82,8 +82,8 @@ const projects = [
 ]
 
 const skills = [
-  'HTML',
-  'CSS',
+  'HTML5',
+  'CSS3',
   'JavaScript',
   'TypeScript',
   'React',
@@ -104,7 +104,12 @@ const skills = [
   'Jenkins',
   'DOM',
   'Selenium',
-  'NPM'
+  'NPM',
+  'Node JS',
+  'Mongo DB',
+  'Next JS',
+  'SASS',
+  'Tailwind CSS'
 ]
 
 const contact = {
