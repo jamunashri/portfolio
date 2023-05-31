@@ -8,7 +8,7 @@ const about = {
   role: 'Front end Developer',
   description:
     'A Software Developer with two years of Experience, specializing in Front-end Technologies',
-  resume: 'https://drive.google.com/file/d/1p5mxOuWZVOHyQt23KeCbHoc_qulMOjhO/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/16OWC3TT0vouA5Yn2Wm-gJTiyyiaBu_WP/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/jamunashri-shanmugasundaram/',
     github: 'https://github.com/jamunashri',
