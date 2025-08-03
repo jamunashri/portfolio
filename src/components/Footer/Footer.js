@@ -1,15 +1,15 @@
-import './Footer.css'
+import "./Footer.css";
 
 const Footer = () => (
-  <footer className='footer'>
+  <footer className="footer">
     <a
-      href='https://github.com/jamunashri'
-      className='link footer__link'
+      href="https://github.com/jamunashri"
+      className="link footer__link"
       target="_blank"
     >
-      Jamunashri Shanmugasundaram © 2022
+      Jamunashri Shanmugasundaram © {new Date().getFullYear()}
     </a>
   </footer>
-)
+);
 
-export default Footer
+export default Footer;
